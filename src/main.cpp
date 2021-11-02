@@ -53,6 +53,7 @@ void lower()
 
 int main()
 {
+    SetConsoleTitle("Guess the Number");
     bool isRunning = false;
     introMenu();
 
